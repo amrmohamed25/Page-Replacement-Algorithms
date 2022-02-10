@@ -39,24 +39,25 @@ Page
 Content of Frames
 --—
 -----------------
-05
-05
-12
-05 12
-05
-05 12
-02
-05 12 02
-04 F
-04 12 02
-02
-04 12 02
-05 F
-04 05 02
+05   05
+
+12   05 12
+
+05   05 12
+
+02   05 12 02
+
+04 F 04 12 02
+
+02   04 12 02
+
+05 F 04 05 02
+
 -------------------------------------
-Number of page faults = 2
-Assignment 4 - Page Replacement Algorithms
-2Notes:
+
+Number of page faults = 2 
+
+Notes:
 You must write your solution in C/C++.
 Operating System: Linux
 Your input and output must follow the described format strictly. Your program will
@@ -71,5 +72,4 @@ Your source program will be compiled, then will be tested by running the followi
 command, which should produce nothing in case of a successful test:
 gcc <ID>.c -o lab4
 cat inputfile | ./lab4 | diff outputfile -
-Assignment 4 - Page Replacement Algorithms
-3
+
