@@ -11,7 +11,7 @@ Optimal
 First In First Out (FIFO)
 Least Recently Used (LRU)
 Clock
-Assignment 4 - Page Replacement Algorithms
+
 1Input/Output:
 Your input will be from standard input. Your output will be to standard output. The input
 will contain the number of pages allocated to the process, the simulated algorithm
